@@ -1,0 +1,20 @@
+{
+    "name": "@justaddjam/tsconfig",
+    "version": "0.1.0",
+    "description": "A set of TypeScript compiler configurations.",
+    "scripts": {
+        "test": "echo 'tests need to be added.'",
+        "prepublishOnly": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/justaddjam/configuration.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/justaddjam/configuration/issues"
+    },
+    "homepage": "https://github.com/justaddjam/configuration/packages/tsconfig#readme"
+  }
+  
