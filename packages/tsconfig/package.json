@@ -1,6 +1,7 @@
 {
+    "private": false,
     "name": "@justaddjam/tsconfig",
-    "version": "0.1.0",
+    "version": "0.0.0",
     "description": "A set of TypeScript compiler configurations.",
     "scripts": {
         "test": "echo 'tests need to be added.'",
@@ -15,5 +16,6 @@
     "bugs": {
         "url": "https://github.com/justaddjam/configuration/issues"
     },
-    "homepage": "https://github.com/justaddjam/configuration/tree/master/packages/tsconfig#readme"
+    "homepage": "https://github.com/justaddjam/configuration/tree/master/packages/tsconfig#readme",
+    "gitHead": "494438daf16be9d3f461a9d494bbb2569ce26b33"
 }
