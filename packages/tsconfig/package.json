@@ -1,5 +1,4 @@
 {
-    "private": false,
     "name": "@justaddjam/tsconfig",
     "version": "0.2.0",
     "description": "A set of TypeScript compiler configurations.",
@@ -17,5 +16,8 @@
         "url": "https://github.com/justaddjam/configuration/issues"
     },
     "homepage": "https://github.com/justaddjam/configuration/tree/master/packages/tsconfig#readme",
-    "gitHead": "494438daf16be9d3f461a9d494bbb2569ce26b33"
+    "publishConfig": {
+        "access": "public"
+    },
+    "gitHead": "eb1a3f3d97ae24a1e426ec66cb450cf3c51895f6"
 }
