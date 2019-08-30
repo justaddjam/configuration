@@ -10,11 +10,10 @@
         "type": "git",
         "url": "git+https://github.com/justaddjam/configuration.git"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "James Adarich <james.adarich@gmail.com> (https://james.adarich.com)",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/justaddjam/configuration/issues"
     },
-    "homepage": "https://github.com/justaddjam/configuration/packages/tsconfig#readme"
-  }
-  
+    "homepage": "https://github.com/justaddjam/configuration/tree/master/packages/tsconfig#readme"
+}

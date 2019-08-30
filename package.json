@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "description": "A selection of npm configuration files.",
   "scripts": {
-    "test": "lerna run test"
+    "test": "lerna run test",
+    "publish:packages": "lerna publish"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/justaddjam/configuration.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "James Adarich <james.adarich@gmail.com> (https://james.adarich.com)",
   "bugs": {
     "url": "https://github.com/justaddjam/configuration/issues"
   },
