@@ -1,5 +1,5 @@
 {
-    "extends": "./base.json",
+    "extends": "./base",
     "compilerOptions": {
         "target": "es5",
         "module": "esnext",

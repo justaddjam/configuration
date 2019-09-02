@@ -1,0 +1,9 @@
+{
+    "extends": "../../browser",
+    "compilerOptions": {
+        "outDir": "./dist"
+    },
+    "include": [
+       "**/*.ts"
+    ]
+}
