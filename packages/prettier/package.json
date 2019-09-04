@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "@justaddjam/prettier",
+    "version": "0.0.0",
+    "description": "A set of prettier configurations.",
+    "scripts": {
+        "test": "echo 'no tests'",
+        "prepublishOnly": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/justaddjam/configuration.git"
+    },
+    "author": "James Adarich <james.adarich@gmail.com> (https://james.adarich.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/justaddjam/configuration/issues"
+    },
+    "homepage": "https://github.com/justaddjam/configuration/tree/master/packages/prettier#readme",
+    "publishConfig": {
+        "access": "public"
+    }
+}
