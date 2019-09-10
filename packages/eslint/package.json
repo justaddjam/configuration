@@ -4,8 +4,9 @@
     "version": "0.0.0",
     "description": "A set of eslint configurations.",
     "scripts": {
-        "test": "echo 'no tests'",
-        "prepublishOnly": "npm test"
+        "build": "tsc",
+        "test": "eslint -c ./test/.eslintrc.json ./test/sample.ts",
+        "prepublishOnly": "npm run build && npm test"
     },
     "repository": {
         "type": "git",
@@ -19,5 +20,12 @@
     "homepage": "https://github.com/justaddjam/configuration/tree/master/packages/prettier#readme",
     "publishConfig": {
         "access": "public"
+    },
+    "peerDependencies": {
+        "eslint": "^6.3.0"
+    },
+    "devDependencies": {
+        "@justaddjam/tsconfig": "^0.4.0",
+        "typescript": "^3.6.2"
     }
 }

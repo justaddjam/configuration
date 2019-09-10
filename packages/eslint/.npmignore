@@ -1,2 +1,6 @@
 # test files
 test
+
+# build files
+tsconfig.json
+*.ts
