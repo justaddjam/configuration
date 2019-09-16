@@ -5,7 +5,7 @@
   "description": "A selection of npm configuration files.",
   "scripts": {
     "test": "lerna run test",
-    "publish:packages": "lerna publish"
+    "publish:packages": "lerna bootstrap && lerna publish"
   },
   "repository": {
     "type": "git",
