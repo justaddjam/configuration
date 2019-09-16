@@ -26,7 +26,8 @@
         "@typescript-eslint/parser": "^2.3.0",
         "eslint": "^6.4.0",
         "eslint-config-prettier": "^6.3.0",
-        "eslint-plugin-prettier": "^3.1.0"
+        "eslint-plugin-prettier": "^3.1.0",
+        "prettier": "^1.18.2"
     },
     "devDependencies": {
         "@justaddjam/tsconfig": "^0.4.0",
