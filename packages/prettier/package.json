@@ -28,5 +28,6 @@
     },
     "dependencies": {
         "prettier": "^1.18.2"
-    }
+    },
+    "gitHead": "7976df15bc65fd2dc05a43f8af6653cd53a5c7aa"
 }

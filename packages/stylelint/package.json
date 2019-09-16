@@ -32,5 +32,6 @@
         "stylelint-config-standard-scss": "^1.1.0",
         "stylelint-prettier": "^1.1.1",
         "stylelint-scss": "^3.10.1"
-    }
+    },
+    "gitHead": "7976df15bc65fd2dc05a43f8af6653cd53a5c7aa"
 }
