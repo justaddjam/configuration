@@ -24,9 +24,10 @@
     },
     "devDependencies": {
         "@justaddjam/tsconfig": "^0.4.0",
+        "@types/prettier": "^1.18.2",
         "typescript": "^3.6.2"
     },
-    "peerDependencies": {
+    "dependencies": {
         "prettier": "^1.18.2"
     }
 }

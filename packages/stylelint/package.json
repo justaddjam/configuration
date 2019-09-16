@@ -19,5 +19,11 @@
     "homepage": "https://github.com/justaddjam/configuration/tree/master/packages/prettier#readme",
     "publishConfig": {
         "access": "public"
+    },
+    "devDependencies": {
+        "@types/stylelint": "^9.10.1"
+    },
+    "dependencies": {
+        "stylelint": "^11.0.0"
     }
 }

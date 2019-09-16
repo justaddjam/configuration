@@ -1,10 +1,16 @@
 import { Linter } from "eslint";
 
 export = {
-    extends: "eslint:recommended",
+    parser:  "@typescript-eslint/parser",
+    extends: [
+        "plugin:@typescript-eslint/recommended",
+        "prettier/@typescript-eslint",
+        "plugin:prettier/recommended" 
+    ],
+    parserOptions:  {
+      ecmaVersion: 2016,
+      sourceType: "module"
+    },
     rules: {
-        // add typescript plugin
-
-        // add some sensible defaults
     }
 } as Linter.Config

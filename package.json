@@ -17,14 +17,6 @@
   },
   "homepage": "https://github.com/justaddjam/configuration#readme",
   "devDependencies": {
-    "@types/eslint": "^4.16.6",
-    "@types/prettier": "^1.18.1",
-    "@types/stylelint": "^9.10.1"
-  },
-  "dependencies": {
-    "eslint": "^6.1.0",
-    "lerna": "^3.16.4",
-    "prettier": "^1.18.2",
-    "stylelint": "^10.1.0"
+    "lerna": "^3.16.4"
   }
 }
