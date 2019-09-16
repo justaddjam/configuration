@@ -3,6 +3,7 @@
     "name": "@justaddjam/eslint",
     "version": "0.0.0",
     "description": "A set of eslint configurations.",
+    "main": "base.js",
     "scripts": {
         "build": "tsc",
         "test": "eslint -c ./test/.eslintrc.json ./test/sample.ts",
