@@ -5,7 +5,7 @@
     "main": "base.js",
     "scripts": {
         "build": "tsc",
-        "test": "eslint -c ./test/.eslintrc.json ./test/sample.ts",
+        "test": "eslint -c ./test/.eslintrc.json ./test/fixed.ts --max-warnings 0",
         "prepublishOnly": "npm run build && npm test"
     },
     "repository": {

@@ -1,3 +1,3 @@
 function badIndentationAndVar() {
-      var x = 2;
+  const x = 2;
 }
