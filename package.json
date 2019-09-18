@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "A selection of npm configuration files.",
   "scripts": {
-    "test": "lerna boostrap && lerna run test",
+    "test": "lerna bootstrap && lerna run test",
     "publish:packages": "lerna bootstrap && lerna publish"
   },
   "repository": {

@@ -7,7 +7,5 @@ os:
   - linux
   - osx
   - windows
-before_script:
-  - npm install
 script:
   - npm test
