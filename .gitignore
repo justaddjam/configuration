@@ -1,6 +1,7 @@
 # built files
 dist
 *.js
+*.d.ts
 
 # npm
 node_modules
