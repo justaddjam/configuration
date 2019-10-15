@@ -1,5 +1,4 @@
 import { Linter } from "eslint";
-import prettierOptions from "@justaddjam/prettier";
 
 export = {
     parser:  "@typescript-eslint/parser",
@@ -12,7 +11,6 @@ export = {
       ecmaVersion: 2016,
       sourceType: "module"
     },
-    prettierOptions,
     rules: {
     }
 } as Linter.Config
