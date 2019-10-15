@@ -1,7 +1,6 @@
 {
     "extends": "@justaddjam/tsconfig/node",
     "compilerOptions": {
-        "declaration": false,
         "sourceMap": false
     },
     "exclude": [
