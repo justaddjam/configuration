@@ -3,6 +3,7 @@
     "version": "0.4.0",
     "description": "A set of prettier configurations.",
     "main": "./.prettierrc.js",
+    "typings": "./.prettierrc.d.ts",
     "scripts": {
         "build": "tsc",
         "test": "prettier --check **/*.ts",
